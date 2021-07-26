@@ -2,14 +2,14 @@
 
 ## Personal information
 
-**Address:**    19 Rokossovsky avenue, apt. 51, Minsk, 220094, Belarus
-**Telephone:**  home +375 17 367 04 94,  mobile +375 29 680 84 95
-**Email:**      yak.alex.evo@gmail.com
-**Skype:**      alex_evo7
+**Address:** 19 Rokossovsky avenue, apt. 51, Minsk, 220094, Belarus
+**Telephone:** home +375 17 367 04 94,  mobile +375 29 680 84 95
+**Email:** yak.alex.evo@gmail.com
+**Skype:** alex_evo7
 [**Linkedin**](https://www.linkedin.com/in/alexei-yakimchik-044859b6)
 [**Github**](https://www.github.com/Alexei-evo)
-**Date of birth:**  1 March 1982
-**Nationality:**    Belarusian
+**Date of birth:** 1 March 1982
+**Nationality:** Belarusian
 **Marital status:** single
 
 ## Career Summary / Objective and priority
@@ -96,9 +96,9 @@ Last three official places of work:
 
 **Higher**
 
-**2002-2007** – Belarusian State university (BSU), biological faculty. **Speciality:** biology (scientific and pedagogical and research-and-production activity). **Qualification:** the biologist, the teacher of biology and chemistry.
-**2001-2002** – preparatory branch at BSU.
-**1999-2001** – Minsk State Medical school №1. I have finished with *the red diploma*. **Speciality:** laboratory diagnostics. **Qualification:** the medical assistant-laboratorian.
+**2002-2007** - Belarusian State university (BSU), biological faculty. **Speciality:** biology (scientific and pedagogical and research-and-production activity). **Qualification:** the biologist, the teacher of biology and chemistry.
+**2001-2002** - preparatory branch at BSU.
+**1999-2001** - Minsk State Medical school №1. I have finished with *the red diploma*. **Speciality:** laboratory diagnostics. **Qualification:** the medical assistant-laboratorian.
 
 ## Qualifications
 
@@ -110,6 +110,6 @@ Last three official places of work:
 **February 2021** - three-day on-line intensity *"How to choose a programming language and find a job"*, was organized by LLC "Skillbox", Moscow, Russia.
 **December 2020** - one-day on-line 9th annual international conference *"IT-Entrance 2020"* was organized by LLC Editorial office of the newspaper "Computer News", Minsk, Belarus.
 **March 2017** - advanced training in the establishment of education "Belarusian State Medical College" according to the educational program *"Examination of persons to establish the fact of drinking alcohol and other psychoactive substances"*.
-**February 2010** – Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course of a society with limited liability «BSH Home appliances» on production Bosch and Siemens.
-**November 2009** – Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course *«Brown Academy 2009»* on skills of sales and technical characteristics of production Braun, Oral-B.
+**February 2010** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course of a society with limited liability «BSH Home appliances» on production Bosch and Siemens.
+**November 2009** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course *«Brown Academy 2009»* on skills of sales and technical characteristics of production Braun, Oral-B.
 
