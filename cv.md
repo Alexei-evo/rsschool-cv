@@ -2,15 +2,15 @@
 
 ## Personal information
 
-**Address:** 19 Rokossovsky avenue, apt. 51, Minsk, 220094, Belarus
-**Telephone:** home +375 17 367 04 94,  mobile +375 29 680 84 95
-**Email:** yak.alex.evo@gmail.com
-**Skype:** alex_evo7
-[**Linkedin**](https://www.linkedin.com/in/alexei-yakimchik-044859b6)
-[**Github**](https://www.github.com/Alexei-evo)
-**Date of birth:** 1 March 1982
-**Nationality:** Belarusian
-**Marital status:** single
+- **Address:** 19 Rokossovsky avenue, apt. 51, Minsk, 220094, Belarus
+- **Telephone:** home +375 17 367 04 94,  mobile +375 29 680 84 95
+- **Email:** yak.alex.evo@gmail.com
+- **Skype:** alex_evo7
+- [**Linkedin**](https://www.linkedin.com/in/alexei-yakimchik-044859b6)
+- [**Github**](https://www.github.com/Alexei-evo)
+- **Date of birth:** 1 March 1982
+- **Nationality:** Belarusian
+- **Marital status:** single
 
 ## Career Summary / Objective and priority
 
@@ -86,30 +86,29 @@ There is the fragment of html-markup that I have written when studying the basic
 
 Last three official places of work:
 
-**June 2016 - December 2019** - *LLC "DAL-gesheft"*, Minsk. **Position:** sales specialist. **Job responsibilities:** wholesale sales of non-food and food products.
+- **June 2016 - December 2019** - *LLC "DAL-gesheft"*, Minsk. **Position:** sales specialist. **Job responsibilities:** wholesale sales of non-food and food products.
 
-**August 2011 - September 2015** - *LLC "Ventra Zapad Plus"*, Minsk. **Position:** promoter of Samsung, since November 2012 - territorial representative/commercial agent of Samsung. **Job responsibilities:** retail sales, marketing and merchandising. 
+- **August 2011 - September 2015** - *LLC "Ventra Zapad Plus"*, Minsk. **Position:** promoter of Samsung, since November 2012 - territorial representative/commercial agent of Samsung. **Job responsibilities:** retail sales, marketing and merchandising. 
 
-**October 2009 - October 2010** - *closed joint-stock company «Patio» («Fifth element» chain of stores)*, Minsk. **Position:** seller 4th category (non-food items). **Job responsibilities:** retail sales and merchandising.
+- **October 2009 - October 2010** - *closed joint-stock company «Patio» («Fifth element» chain of stores)*, Minsk. **Position:** seller 4th category (non-food items). **Job responsibilities:** retail sales and merchandising.
 
 ## Education
 
 **Higher**
 
-**2002-2007** - Belarusian State university (BSU), biological faculty. **Speciality:** biology (scientific and pedagogical and research-and-production activity). **Qualification:** the biologist, the teacher of biology and chemistry.
-**2001-2002** - preparatory branch at BSU.
-**1999-2001** - Minsk State Medical school №1. I have finished with *the red diploma*. **Speciality:** laboratory diagnostics. **Qualification:** the medical assistant-laboratorian.
+- **2002-2007** - Belarusian State university (BSU), biological faculty. **Speciality:** biology (scientific and pedagogical and research-and-production activity). **Qualification:** the biologist, the teacher of biology and chemistry.
+- **2001-2002** - preparatory branch at BSU.
+- **1999-2001** - Minsk State Medical school №1. I have finished with *the red diploma*. **Speciality:** laboratory diagnostics. **Qualification:** the medical assistant-laboratorian.
 
 ## Qualifications
 
-**May 2021** - one-day on-line training *"How to get an interview in English, even if you have a low level of knowledge"*, was organized by the educational center "Adukar" and conducted by an English teacher with experience in IT Natalya Titkina, Minsk, Belarus.
-**April 2021** - one-day on-line webinar *"Creating a Website"*, was organized by LLC "Skillbox", Moscow, Russia.
-**February 2021** - three-day on-line intensity *"English for IT"*, was conducted by Anna Gandrabura, founder of English For IT courses, Ukraine.
-**February 2021** - one-day on-line webinar *"Front-End from scratch"*, was conducted by the international company "SkillUP".
-**February 2021** - one-day on-line training *"How to learn to understand English by ear"*, was conducted by teacher/author of courses Daria Storozhilova, Prague, Czechia.
-**February 2021** - three-day on-line intensity *"How to choose a programming language and find a job"*, was organized by LLC "Skillbox", Moscow, Russia.
-**December 2020** - one-day on-line 9th annual international conference *"IT-Entrance 2020"* was organized by LLC Editorial office of the newspaper "Computer News", Minsk, Belarus.
-**March 2017** - advanced training in the establishment of education "Belarusian State Medical College" according to the educational program *"Examination of persons to establish the fact of drinking alcohol and other psychoactive substances"*.
-**February 2010** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course of a society with limited liability «BSH Home appliances» on production Bosch and Siemens.
-**November 2009** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course *«Brown Academy 2009»* on skills of sales and technical characteristics of production Braun, Oral-B.
-
+- **May 2021** - one-day on-line training *"How to get an interview in English, even if you have a low level of knowledge"*, was organized by the educational center "Adukar" and conducted by an English teacher with experience in IT Natalya Titkina, Minsk, Belarus.
+- **April 2021** - one-day on-line webinar *"Creating a Website"*, was organized by LLC "Skillbox", Moscow, Russia.
+- **February 2021** - three-day on-line intensity *"English for IT"*, was conducted by Anna Gandrabura, founder of English For IT courses, Ukraine.
+- **February 2021** - one-day on-line webinar *"Front-End from scratch"*, was conducted by the international company "SkillUP".
+- **February 2021** - one-day on-line training *"How to learn to understand English by ear"*, was conducted by teacher/author of courses Daria Storozhilova, Prague, Czechia.
+- **February 2021** - three-day on-line intensity *"How to choose a programming language and find a job"*, was organized by LLC "Skillbox", Moscow, Russia.
+- **December 2020** - one-day on-line 9th annual international conference *"IT-Entrance 2020"* was organized by LLC Editorial office of the newspaper "Computer News", Minsk, Belarus.
+- **March 2017** - advanced training in the establishment of education "Belarusian State Medical College" according to the educational program *"Examination of persons to establish the fact of drinking alcohol and other psychoactive substances"*.
+- **February 2010** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course of a society with limited liability «BSH Home appliances» on production Bosch and Siemens.
+- **November 2009** - Minsk International educational centre of a name «Johannes Rau» (IBB). An one-day course *«Brown Academy 2009»* on skills of sales and technical characteristics of production Braun, Oral-B.
